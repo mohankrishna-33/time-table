@@ -1,0 +1,34 @@
+tr{
+    background-color: blue;
+    color: rgb(100, 0, 62);
+}
+td{
+    background-color: rgb(43, 137, 226);
+    color: rgb(111, 0, 139);
+}
+th{
+    background-color: darkgrey;
+}
+.mm{
+
+    background-color: rgb(255, 0, 255);
+    color: darkslategray;
+}
+.ss{
+background-color: brown;
+    color: rgb(0, 255, 64);
+}
+.kk{
+    background-color: brown;
+    color: chartreuse;
+}
+.rr{
+background-color: brown;
+    color: chartreuse;
+}
+.mm{
+    background-color: brown;
+    color: chartreuse;
+}
+
+
